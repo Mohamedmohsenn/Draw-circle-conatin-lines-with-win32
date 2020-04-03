@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1585882679 source:e:\github\graphics\main.cpp
+	<tchar.h>
+	<windows.h>
+	<cmath>
+
